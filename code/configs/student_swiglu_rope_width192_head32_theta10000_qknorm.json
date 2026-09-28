@@ -1,0 +1,12 @@
+{
+  "vocab": 2048,
+  "width": 192,
+  "heads": 6,
+  "depth": 6,
+  "context": 256,
+  "ffn_hidden": 512,
+  "norm": "layernorm",
+  "position_encoding": "rope",
+  "rope_theta": 10000.0,
+  "qk_norm": true
+}
